@@ -1,0 +1,23 @@
+video{
+    width: 1000px;
+    height: 600px;
+    
+}
+.matn {
+display: inline;
+
+ }
+.matn2 {
+    text-align: center;
+}
+h1 {
+    color: aqua;
+
+}
+span {
+    color: gray;
+}
+p {
+    color: rgb(151, 151, 151);
+    margin-left: 100px;
+}
